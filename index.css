@@ -11,3 +11,13 @@
 ul {
   list-style: none;
 }
+
+.align_user {
+  align:"center";
+  font-style: bold;
+  color: aqua;
+}
+
+.repo_style {
+  color: black;
+}
